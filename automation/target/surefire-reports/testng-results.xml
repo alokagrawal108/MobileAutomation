@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3348" started-at="2019-03-14T11:58:35Z" finished-at="2019-03-14T11:58:38Z">
+  <suite name="Suite" duration-ms="1150" started-at="2019-03-14T12:52:01Z" finished-at="2019-03-14T12:52:02Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3348" started-at="2019-03-14T11:58:35Z" finished-at="2019-03-14T11:58:38Z">
-      <class name="com.datadriven.ReadExcelData">
-        <test-method status="PASS" signature="readExcelData()[pri:0, instance:com.datadriven.ReadExcelData@35fb3008]" name="readExcelData" duration-ms="3307" started-at="2019-03-14T11:58:35Z" finished-at="2019-03-14T11:58:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- readExcelData -->
-      </class> <!-- com.datadriven.ReadExcelData -->
+    <test name="Test" duration-ms="1150" started-at="2019-03-14T12:52:01Z" finished-at="2019-03-14T12:52:02Z">
       <class name="com.mobile.Launch">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.mobile.Launch@3cbbc1e0]" name="f" duration-ms="22" started-at="2019-03-14T11:58:35Z" finished-at="2019-03-14T11:58:35Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.mobile.Launch@6df97b55]" name="f" duration-ms="15" started-at="2019-03-14T12:52:01Z" finished-at="2019-03-14T12:52:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- com.mobile.Launch -->
+      <class name="com.mobile.ReadExcelData">
+        <test-method status="PASS" signature="readExcelData()[pri:0, instance:com.mobile.ReadExcelData@3cbbc1e0]" name="readExcelData" duration-ms="1120" started-at="2019-03-14T12:52:01Z" finished-at="2019-03-14T12:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelData -->
+      </class> <!-- com.mobile.ReadExcelData -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
