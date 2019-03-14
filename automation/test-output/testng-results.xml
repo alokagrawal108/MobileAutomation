@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56" started-at="2019-03-13T18:24:22Z" finished-at="2019-03-13T18:24:22Z">
+  <suite name="Default suite" duration-ms="1112" started-at="2019-03-14T07:05:20Z" finished-at="2019-03-14T07:05:21Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="56" started-at="2019-03-13T18:24:22Z" finished-at="2019-03-13T18:24:22Z">
-      <class name="com.mobile.Launch">
-        <test-method status="PASS" signature="f()[pri:0, instance:com.mobile.Launch@68c4039c]" name="f" duration-ms="16" started-at="2019-03-13T18:24:22Z" finished-at="2019-03-13T18:24:22Z">
+    <test name="Default test" duration-ms="1112" started-at="2019-03-14T07:05:20Z" finished-at="2019-03-14T07:05:21Z">
+      <class name="com.datadriven.ReadExcelData">
+        <test-method status="PASS" signature="readExcelData()[pri:0, instance:com.datadriven.ReadExcelData@1794d431]" name="readExcelData" duration-ms="1081" started-at="2019-03-14T07:05:20Z" finished-at="2019-03-14T07:05:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- com.mobile.Launch -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- readExcelData -->
+      </class> <!-- com.datadriven.ReadExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
